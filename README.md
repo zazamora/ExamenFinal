@@ -14,16 +14,23 @@ Se le proporciona un archivo que contiene parte de este pergamino, cada palabra 
 Entrada: (asi viene el archivo .txt)
 
 3 ← numero de lineas
+
 ejp mysljylc kd kxveddknmc re jsicpdrysi
+
 rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
+
 de kr kd eoya kw aej tysr re ujdr lkgc jv
+
 
 
 Salida: (debe desplegar en consola el # de linea (caso) seguido de la traducción).
 
-Caso #1: our language is impossible to understand
-Caso #2: there are twenty six factorial possibilities
-Caso #3: so it is okay if you want to just give up
+Caso #1: our language is impossible to understand  
+
+Caso #2: there are twenty six factorial possibilities  
+
+Caso #3: so it is okay if you want to just give up  
+
 
 
 
@@ -36,14 +43,20 @@ Tenga en cuenta que n y m deben tener el mismo número de dígitos con el fin de
 Entrada:
 
 4 ← numero de casos que vienen en el archivo
+
 1 9
+
 10 40
+
 100 500
 
 Salida: (debe desplegar en consola el # de linea (caso) seguido del total de numeros reciclados)
 
 Caso #1: 0
+
 Caso #2: 3
+
 Caso #3: 15
+
 
 
