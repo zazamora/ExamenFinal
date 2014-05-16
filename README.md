@@ -4,7 +4,7 @@ Examen Final Lab IPC1B
 
 #Hablando en lenguas
 
-	Un grupo de exploradores ha descubierto antiguos pergaminos de una civilizacion perdida, y ahora desean saber su contenido, se les ha dicho que usted es un experto en decifrar codigos por medio del ordenador. Por lo que el benefactor de la expedición, Sir. Axl Rod, le ha invitado a ser parte de este importante descubrimiento.
+Un grupo de exploradores ha descubierto antiguos pergaminos de una civilizacion perdida, y ahora desean saber su contenido, se les ha dicho que usted es un experto en decifrar codigos por medio del ordenador. Por lo que el benefactor de la expedición, Sir. Axl Rod, le ha invitado a ser parte de este importante descubrimiento.
 
 De de este extraño lenguaje sabemos que 'a' → 'y', 'o' → 'e' y 'z' → 'q'  de esta forma “a zoo” (un zoologico) se convierte en “y qee”.
 
@@ -30,7 +30,7 @@ Caso #3: so it is okay if you want to just give up
 #Numeros Reciclados
 
 
-	Digamos que un par de enteros positivos distintos (n, m) se recicla si puede obtener m moviendo algunos dígitos de la parte posterior de n al frente, sin cambiar su orden. Por ejemplo, (12345, 34512) es un par reciclado ya que se puede obtener 34512 moviendo 345 del final de 12345 a la parte delantera. 
+Digamos que un par de enteros positivos distintos (n, m) se recicla si puede obtener m moviendo algunos dígitos de la parte posterior de n al frente, sin cambiar su orden. Por ejemplo, (12345, 34512) es un par reciclado ya que se puede obtener 34512 moviendo 345 del final de 12345 a la parte delantera. 
 Tenga en cuenta que n y m deben tener el mismo número de dígitos con el fin de ser un par reciclado. Ni n ni m puede tener ceros a la izquierda.
 
 Entrada:
