@@ -54,7 +54,7 @@ public class NumerosReciclados{
 			}
 		} 
 		resultados = "Rango: " + datos[0] + " - " + datos[1] + ". La cantidad de numeros reciclados es: " + contador;
-		escribir("resultados.txt",resultados);
+		escribir("NumerosReciclados_201313952.txt",resultados);
 		contador = 0;
 	}
 	public static void escribir(String nombreArchivo, String resultados){
